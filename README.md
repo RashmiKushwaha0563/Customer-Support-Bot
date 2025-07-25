@@ -28,7 +28,3 @@ A FastAPI and Gradio-based customer support chatbot that intelligently answers u
 | **LLaMA2**  | Language model for understanding queries  |
 | **Requests**| HTTP requests to interact with Ollama     |
 
----
-
-## 📁 Project Structure
-
