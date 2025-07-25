@@ -1,4 +1,4 @@
-🤖 Customer Support Chatbot
+<h1 align="center">🤖 Customer Support Chatbot</h1>
 
 ![screenshot](./src/bb.png)
 
