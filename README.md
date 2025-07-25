@@ -1,5 +1,7 @@
 🤖 Customer Support Chatbot
 
+![screenshot](./src/bb.png)
+
 A FastAPI and Gradio-based customer support chatbot that intelligently answers user queries using an LLM (LLaMA2 via Ollama) and a predefined FAQ database. Ideal for automating customer service with smart, human-like responses.
 
 ---
